@@ -6,7 +6,7 @@
 ## 🚀 Project Overview
 Dreams Uncharted is a specialized e-commerce and crowdfunding platform designed to ensure authors and comic artists are fairly compensated for their work. 
 
-I took over a non-functional PHP/MySQL codebase in November 2025. Since then, I have re-architected the platform into a fully automated passive-income engine that supports 15+ active creators and has increased artist revenue by thousands of dollars annually.
+I took over a not-quite-functional PHP/MySQL codebase in November 2025. Since then, I have re-architected the platform into a fully automated passive-income engine that supports 15+ active creators and has increased artist revenue by thousands of dollars annually.
 
 ### 🔗 [Visit Live Site](https://www.dreamsuncharted.com/index.php)
 
